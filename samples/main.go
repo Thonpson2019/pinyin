@@ -8,7 +8,7 @@ package main
 
 import (
 	"fmt"
-	"gitee.com/shirdonl/pinyin/library"
+	"github.com/Thonpson2019/pinyin"
 	"regexp"
 )
 
